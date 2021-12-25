@@ -1,2 +1,2 @@
 # my-strapi-project
- test deploy project on heroku
+ strapi v4.0.2
